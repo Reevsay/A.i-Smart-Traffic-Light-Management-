@@ -1,0 +1,13 @@
+train: C:/Users/yashv/Music/work/train
+val: C:/Users/yashv/Music/work/valid
+test: C:/Users/yashv/Music/work/test
+
+nc: 4
+names: ['bus', 'car', 'truck','motorcycle']
+
+roboflow:
+  workspace: traffic-management-system
+  project: traffic-analysis-with-yolov8
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/traffic-management-system/traffic-analysis-with-yolov8/dataset/1
