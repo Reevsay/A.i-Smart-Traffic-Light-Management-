@@ -1,0 +1,37 @@
+# AI Smart Traffic Light Management System - Requirements
+
+# Core Deep Learning and Computer Vision
+ultralytics>=8.0.33          # YOLOv8 for object detection
+torch>=1.9.0                 # PyTorch backend for YOLO
+torchvision>=0.10.0          # Computer vision utilities
+opencv-python>=4.5.0         # Computer vision and video processing
+supervision>=0.6.0           # Enhanced annotations and visualization
+
+# Object Tracking
+scikit-learn>=0.21.0         # Machine learning utilities for Deep SORT
+tensorflow>=2.11.0           # Deep SORT feature extraction (CPU version)
+# tensorflow-gpu>=2.11.0     # Use this for GPU acceleration instead
+scikit-image>=0.19.3         # Image processing utilities
+filterpy>=1.4.5              # Kalman filter implementation
+scipy>=1.7.0                 # Scientific computing
+
+# Data Processing and Visualization
+numpy>=1.21.0                # Numerical computing
+pandas>=1.3.0                # Data manipulation and analysis
+matplotlib>=3.4.0            # Plotting and visualization
+seaborn>=0.11.0              # Statistical data visualization
+
+# Utilities
+tqdm>=4.62.0                 # Progress bars
+PyYAML>=5.4.0                # YAML configuration file support
+Pillow>=8.3.0                # Image processing
+requests>=2.26.0             # HTTP requests for model downloads
+
+# Optional: For enhanced performance
+# numba>=0.54.0              # JIT compilation for speed improvements
+# cupy>=9.0.0                # GPU-accelerated NumPy (CUDA required)
+
+# Development and Testing (optional)
+# pytest>=6.2.0             # Testing framework
+# black>=21.7.0              # Code formatting
+# flake8>=3.9.0              # Linting
