@@ -231,11 +231,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 💬 Get in Touch
 
-- 📧 **Email**: [your.email@example.com]
-- 💼 **LinkedIn**: [Your LinkedIn Profile]
-- 🐦 **Twitter**: [@YourTwitterHandle]
-- 🌐 **Portfolio**: [Your Website]
-
+- 📧 **Email**: [yashveer140hlawat@gmail.com]
 ---
 
 <div align="center">
